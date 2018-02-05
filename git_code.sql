@@ -1,7 +1,7 @@
-version 3
+version 4
 
 select *
 from table
-where date = now
+where date = then
 ;
 
